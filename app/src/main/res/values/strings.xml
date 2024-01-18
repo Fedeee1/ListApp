@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="btnRemoveList">Limpiar lista</string>
+    <string name="txtThereIsNotElements">No hay elementos</string>
+    <string name="toolbarTitle">Lista de números</string>
+    <string name="imageAddNumber">Agregar número</string>
+</resources>
